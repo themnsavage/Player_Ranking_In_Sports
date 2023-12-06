@@ -33,3 +33,6 @@
 ## Conclusion:
 - In this project, I used data from 2022 MLB player stats to rank players. I cleaned the data and then scored players based on things like home runs and batting average. I used a heat map to show which features make a player rank higher. The results showed that home runs are the most important for a high ranking. However, the system only looked at batting and ignored defense. In the future, adding defense stats could make the rankings better by considering a player's overall skills, not just batting.
 
+## References:
+- data set used: https://www.kaggle.com/datasets/vivovinco/2022-mlb-player-stats
+
