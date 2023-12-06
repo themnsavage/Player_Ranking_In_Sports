@@ -17,11 +17,12 @@
 ## Ranking System Development:
 - For ranking players I would assign a weight to each feature(EX: home runs, batting average, etc.). With these weights I would then calculate a score for each player with these weights.
 -  code for ranking players:
+![image](https://github.com/themnsavage/Player_Ranking_In_Sports/assets/60998598/91c175cb-663a-4a89-9d07-0b4520afadf6)
 
 ## Data Analysis and Visualization:
 - For analyzing I created a heat map using the python libraries matplotlib and seaborn. I decided to use a heat map, due to being able to visual the features I used to rank the players. This help me understand why certain players are rank higher than others.
 - Heat map:
-
+![image](https://github.com/themnsavage/Player_Ranking_In_Sports/assets/60998598/85304c71-7159-4c36-aa5f-a350e6150719)
 
 ## Results & Discussion:
 -  From this project I was able to see that based on my ranking model. That the feature that makes a player a top ranking player is the home run score. This is shown by the heat map that the top players have very similar rankings for all the other features except for their home run scores.
